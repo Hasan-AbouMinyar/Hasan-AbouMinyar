@@ -5,10 +5,18 @@ I'm a **Fullstack Developer** and a **Software Engineering student**. I speciali
 
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasan-AbouMinyar&theme=github_dark" />
+    <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-AbouMinyar&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-AbouMinyar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    <br /><br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasan-AbouMinyar&theme=algolia&no-bg=true&no-frame=true" />
 </p>
+
+
+
+
 
 
 <p align="center">
