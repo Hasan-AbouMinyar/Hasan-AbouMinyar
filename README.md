@@ -25,6 +25,10 @@ I'm a **Fullstack Developer** and a **Software Engineering student**. I speciali
   <img src="https://img.icons8.com/color/48/000000/react-native.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/flutter.png" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/fa314a/laravel.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/dart.png" width="50" height="50"/>
 </p>
 
 ##
